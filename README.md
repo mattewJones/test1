@@ -1,2 +1,2 @@
 # test1
-test de git et github sur Vm debian
+testing github on a debian VM.
